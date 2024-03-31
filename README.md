@@ -21,5 +21,5 @@ Our commitment to enhancing the Dual-Response AI Chat Platform is stronger than 
 
 ## Front-End Templates
 
-Portions of the front-end design outside the custom chat interface, sign-in, and sign-up pages were adapted from [Front-End Template Source](#https://themeforest.net/item/openup-ai-content-writing-applications-landing-page-template/46030556). These templates are gonna be customized to fit the requirements of my project.
+Portions of the front-end design outside the custom chat interface, sign-in, and sign-up pages were adapted from [Front-End Template Source](https://themeforest.net/item/openup-ai-content-writing-applications-landing-page-template/46030556). These templates are gonna be customized to fit the requirements of my project.
 
